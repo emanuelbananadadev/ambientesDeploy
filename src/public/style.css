@@ -41,7 +41,8 @@ body {
     width: 200px;
     text-align: center;
     margin: 0 auto;
-    
+    cursor: pointer;
+
 }
 
 .tech li {
